@@ -1,5 +1,5 @@
 # OpenCore EFI for ROG STRIX B550-I GAMING
-![photo]([(https://github.com/viking76/hackintosh-rog-b550i/blob/master/Pictures/ventura.png?raw=true])
+![photo]([https://github.com/viking76/hackintosh-rog-b550i/blob/master/Pictures/ventura.png?raw=true])
 
 # Specification
 
