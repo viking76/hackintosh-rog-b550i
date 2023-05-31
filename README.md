@@ -13,7 +13,7 @@
 | WiFi & Bluetooth | Intel® Wi-Fi 6 AX200 |
 | Lan |  Intel® I225-V 2.5Gb Ethernet |
 | OS Disk | Samsung 960 Evo 500GB |
-| macOS | Big Sur 11.0.1/ OpenCore 0.6.4 Alpha
+| macOS |  13.3.1/ OpenCore 0.8.8
 
 ## What works
 - Audio (`alcid=3`)
