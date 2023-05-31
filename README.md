@@ -25,7 +25,8 @@
 - iMessage, FaceTime
 
 ## Known issues
-- not work Partially-working virtualization (only VirtualBox & Parallels Dekstop 13.1.0 or below)
+- Sleep problems
+- not working virtualization
 - 3.5mm Jack microphone (haven't tested)
 
 ## Update
