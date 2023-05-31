@@ -28,6 +28,9 @@
 - not work Partially-working virtualization (only VirtualBox & Parallels Dekstop 13.1.0 or below)
 - 3.5mm Jack microphone (haven't tested)
 
+## Update
+Simply use OCAuxiliaryTools package   https://github.com/ic005k/OCAuxiliaryTools
+
 ## Credits
 - everyone developing for the hackintosh community and before me huuakhai that send his config.
 - the [dortania team](https://github.com/orgs/dortania/people)
