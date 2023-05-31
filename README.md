@@ -19,8 +19,8 @@
 ## What works
 - Audio (`alcid=3`)
 - Ethernet (with ACPI and kext)
-- USB
-- Wi-Fi
+- USB (USB mapping)
+- Wi-Fi (Airportitlwm for ventura)
 - Bluetooth
 - iMessage, FaceTime
 
@@ -29,5 +29,5 @@
 - 3.5mm Jack microphone (haven't tested)
 
 ## Credits
-- everyone developing for the hackintosh community
+- everyone developing for the hackintosh community and before me huuakhai that send his config.
 - the [dortania team](https://github.com/orgs/dortania/people)
