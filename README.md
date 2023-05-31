@@ -1,14 +1,13 @@
 # OpenCore EFI for ROG STRIX B550-I GAMING
 
-![photo](https://github.com/huukhai/hackintosh-rog-b550i/raw/master/Pictures/b550i-rog.png)
 
 # Specification
 
 | **Component** | **Model** |
 | ------------- | --------- |
-| CPU | AMD Ryzen 5 5600X @ 3.7GHz |
+| CPU | AMD Ryzen 9 3900X @ 3.9GHz |
 | Motherboard | ASUS Rog Strix B550i |
-| RAM | 32GB (2 x 16GB) Asgard W2 @ 3200MHz @OC 3600MHz C16|
+| RAM | 16B (2 x 8GB) 
 | Audio Chipset | ALC-S1220A |
 | GPU | SAPPHIRE NITRO+ RX 580 8G G5 |
 | WiFi & Bluetooth | Intel® Wi-Fi 6 AX200 |
@@ -18,14 +17,14 @@
 
 ## What works
 - Audio (`alcid=3`)
-- Ethernet
+- Ethernet (with ACPI and kext)
 - USB
 - Wi-Fi
 - Bluetooth
 - iMessage, FaceTime
 
 ## Known issues
-- Partially-working virtualization (only VirtualBox & Parallels Dekstop 13.1.0 or below)
+- not work Partially-working virtualization (only VirtualBox & Parallels Dekstop 13.1.0 or below)
 - 3.5mm Jack microphone (haven't tested)
 
 ## Credits
